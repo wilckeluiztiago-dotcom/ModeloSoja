@@ -1,7 +1,7 @@
 # Modelo Estatístico Avançado de Soja e Risco de Seca (V2.0)
 
 **Autor:** Luiz Tiago Wilcke  
-**Afiliação:** Estudante de Estatística - Unisociesc
+**Formação:** Estudante de Estatística - Unisociesc
 
 ## Resumo Executivo
 Este projeto implementa uma arquitetura de modelagem preditiva de **Ensemble** (Empilhamento de Modelos) combinada com **Cópulas Gaussianas** para análise de risco sistêmico. O objetivo é projetar a produção de soja brasileira (2025-2050) e quantificar a probabilidade de falhas simultâneas de safra entre diferentes estados.
